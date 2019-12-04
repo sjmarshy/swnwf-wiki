@@ -4,8 +4,8 @@
 
 *acting captain* Isaac
 
-*location* Halane
+*location* [Halane](./system-halane.md)
 
 ## Known Systems
 
-![local systems](./swnwf_system.JPG)
+![](./swnwf_system.JPG)
