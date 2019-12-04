@@ -1,1 +1,5 @@
-# Stars Without Number, With Friends
+# The Succotash | Comms and Network Relay
+
+*status* nominal
+*acting captain* Isaac
+*location* Halane
