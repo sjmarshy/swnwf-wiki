@@ -1,21 +1,21 @@
 # Halane
 
-## Hadley 1
+[overview](./index.md)
 
-## Volograd 6
+## Scans
 
-## Kepler 8
+- Hadley 1 Refuelling Station
+- Volograd 6 Research Base (Radio Silence)
+- [Deep Space Station Kepler 8](./dss-kepler-8.md)
 
-*ERROR* insufficient permissions *ERROR*
+### Vailami Rini Space
 
-*WARNING* Do not̷ ap͡p̵roa̴ch *WA̱͕̗R̘͓͇̱̲̤N͏̱̙͕̱I҉͕͎N̩̙G̯̣̳͟*
+- Planet Vailami Rini
+- Bizkene Urrika
+- Crater 3
 
-POWER SYSTEMS IN FLUX
+## Jump Locations
 
-## Vailami Rini Space
-
-### Vailami Rini  Surface
-
-### Bizkene Urrika
-
-### Crater 3
+- Kor
+- Tsidessig
+- Laedicu
