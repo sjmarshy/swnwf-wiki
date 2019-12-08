@@ -6,6 +6,8 @@
 
 *location* [Halane](./system-halane.md)
 
+*[manifest](./succotash-hold.md)*
+
 ## Known Systems
 
 ![](./swnwf_system.JPG)
